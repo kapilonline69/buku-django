@@ -1,7 +1,7 @@
 Buku-Django
 ===========
 
-Aplikasi website dengan django
+Aplikasi website and tool dengan django
 
 Universitas Virtual Terbuka:
 
